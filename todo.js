@@ -19,11 +19,11 @@ const addTodo = (title) => {
     });
 
     if (duplicates.length === 0){
-    todos.push(todo);
-    fs.writeFileSync ('todos.json', JSON.stringify(todos));
-    console.log ("New TODO added");
+        todos.push(todo);
+        fs.writeFileSync ('todos.json', JSON.stringify(todos));
+        console.log ("New TODO added");
     }else{
-    console.log ("TODO already exists");
+        console.log ("TODO already exists");
     }
       
 };
