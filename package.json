@@ -1,0 +1,22 @@
+{
+  "name": "todo-app-nodejs",
+  "version": "1.0.0",
+  "description": "A command line ToDo application in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyyirs/ToDo-App-NodeJs.git"
+  },
+  "author": "Nyyirs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyyirs/ToDo-App-NodeJs/issues"
+  },
+  "homepage": "https://github.com/nyyirs/ToDo-App-NodeJs#readme",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
