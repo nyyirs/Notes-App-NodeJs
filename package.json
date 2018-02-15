@@ -1,22 +1,15 @@
 {
-  "name": "todo-app-nodejs",
+  "name": "notes-node",
   "version": "1.0.0",
-  "description": "A command line ToDo application in NodeJS",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nyyirs/ToDo-App-NodeJs.git"
-  },
-  "author": "Nyyirs",
+  "author": "Andrew Mead",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nyyirs/ToDo-App-NodeJs/issues"
-  },
-  "homepage": "https://github.com/nyyirs/ToDo-App-NodeJs#readme",
   "dependencies": {
-    "yargs": "^11.0.0"
+    "lodash": "^4.13.1",
+    "yargs": "^4.7.1"
   }
 }
