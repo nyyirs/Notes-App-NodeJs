@@ -1,7 +1,7 @@
 # Note Application
 A simple note taking command line application that alows Add, Search, Delete and Listing all notes form notes-data.json file.
 
-## Using the app
+## Cloning the application
 Clone the repository on your computer and run:
 
 ```shell
@@ -12,9 +12,11 @@ The above command will install all the required npm modules from the package.jso
 ## Application features
 
 The application is using:
-*Converting javascript objects into string or vis versa
-*Use the File System module to write and read from files
-*The application is using the latest JS ES6 version
+* arrays extensively
+* Parse/Stringify to convert JavaScript objects into string and vice versa
+* the File System module to read and write to/from files
+* YARGS module to read the input from the command line
+* the latest JavaScript ES6 version
 
 
 
