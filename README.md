@@ -12,11 +12,11 @@ The above command will install all the required npm modules from the package.jso
 ## Application features
 
 The application is using:
-* arrays extensively
-* Parse/Stringify to convert JavaScript objects into string and vice versa
-* the File System module to read and write to/from files
-* YARGS module to read the input from the command line
-* the latest JavaScript ES6 version
+* arrays and functions extensively.
+* Parse/Stringify to convert JavaScript objects into string and vice versa.
+* the File System module to read and write to/from files.
+* YARGS module to read the input from the command line.
+* the latest JavaScript ES6 version.
 
 
 
