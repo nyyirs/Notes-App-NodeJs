@@ -4,7 +4,7 @@ A simple note taking command line application that alows Add, Search, Delete and
 ## Cloning the application
 Clone the repository on your computer and run:
 
-```bash
+```Alpine Abuild
 npm install
 ```
 The above command will install all the required npm modules from the package.json file.
